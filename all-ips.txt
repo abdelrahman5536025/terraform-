@@ -1,0 +1,6 @@
+Private IP of public EC2s is 10.0.2.175
+Public IP of public EC2s 107.22.156.40
+Private IP of public EC2s is 10.0.0.108
+Public IP of public EC2s 54.159.20.179
+Private IP for private EC2s 10.0.1.236
+Private IP for private EC2s 10.0.3.79
