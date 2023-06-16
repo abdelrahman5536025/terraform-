@@ -1,12 +1,12 @@
 # terraform
-## Terraform Project - AWS VPC, Subnets, and EC2 Instances, load balancers ,proxy
+### Terraform Project - AWS VPC, Subnets, and EC2 Instances, load balancers ,proxy
 This project creates an AWS VPC with both private and public subnets. 
 It also provisions two EC2 instances ,in each . The public subnet allows HTTP and SSH traffic,
 while the private subnet does not have direct internet access and private Ec2 used private load balancer to access the internet through the redirection
 that comes from the proxy in public Ec2 . the public Ec2 accesses internet using public load balancer
 
 
-## project structure
+### project structure
 
 ![Screenshot from 2023-06-16 04-32-39](https://github.com/abdelrahmanmetwally/terraform-/assets/93939024/cd1e547a-22b8-4f7e-917e-e5adf3dea150)
 
